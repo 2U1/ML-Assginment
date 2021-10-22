@@ -1,4 +1,4 @@
-# Computer Vision
+# Machine Learning
 Repository for Machine Learning Class.<br>
 Codes for the Assiginment.
 ```
