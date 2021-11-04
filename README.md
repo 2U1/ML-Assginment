@@ -4,10 +4,11 @@ Codes for the Assiginment.
 ```
     Code
     ├── README.md
-    ├── Midterm.ipynb
-    │    └── The code for submission
-    ├── rda.py
-    │     └── Rda code from github
-    ├── testing.py
-    │     └── Testing the code.
+    └── Midterm
+        ├── Midterm_yw.ipynb
+        ├── facial_expression_train_dataset
+        ├── rda.py
+        ├── preprocessing.ipynb
+        └── testing.py
+    └── Assignment3
 ```
