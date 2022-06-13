@@ -1,5 +1,4 @@
 # Assginement3
-## 2021021699 이유원
 <br>
 
 The responsibilty of the mixture model of gaussian distribution is<br><br>
